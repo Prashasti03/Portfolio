@@ -21,7 +21,7 @@ npm install
 npm run build
 
 ## Live Demo
-https://your-site.vercel.app
+Project Link Vercel - portfolio-rho-flame-63.vercel.app
 
 ## GitHub Repo
-https://github.com/Prashasti03/portfolio
+https://github.com/Prashasti03/Portfolio
